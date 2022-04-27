@@ -1,0 +1,4 @@
+version: 1.0.0
+content:
+  - 基于apktool实现
+  - 可进行多渠道签名 和 拆包
