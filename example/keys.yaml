@@ -1,0 +1,7 @@
+cn.yao.test:
+  keyPath: C:/Users/admin/.android/debug.keystore
+  alias: androiddebugkey
+  keyPwd: android
+  storePwd: android
+# windows用户需要验证apksigner命令是否可用，macOS用户如果配置了环境变量，则不需要该配置
+#apkSignerCmd: java -jar apksigner.jar的具体路径

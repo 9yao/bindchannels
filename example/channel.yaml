@@ -1,0 +1,4 @@
+outChannelName: '# in AndroidManifest.xml channel name if not is marketChannel used'
+marketChannel:
+- qq
+- huawei
