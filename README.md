@@ -16,7 +16,7 @@ java -jar bindchannels-xxx.jar
 # 工具说明
 将下载下来的jar文件，放到任意自己喜欢的目录；最好是新建一个目录。  
 
-首次运行会在jar文件的上级目录创建两个yaml文件，keys.yaml、channel.yaml。  
+首次运行会在jar文件的上级目录创建两个yaml文件，keys.yaml、channel.yaml。详细配置见example  
 > keys.yaml 用于配置apk签名需要的参数，目前暂只支持密钥库文件
 >  
 > channel.yaml 用于配置apk要打的多渠道  
