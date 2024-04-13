@@ -11,7 +11,7 @@
 ```shell
 java -jar bindchannels-xxx.jar
 ```
-4.2、Windows可以双击jar包，如果运行不了请使用命令行方式3.1
+4.2、Windows可以双击jar包，如果运行不了请使用命令行方式4.1
 
 # 工具说明
 将下载下来的jar文件，放到任意自己喜欢的目录；最好是新建一个目录。  
