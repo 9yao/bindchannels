@@ -1,5 +1,5 @@
 cn.yao.test:
-  keyPath: C:/Users/admin/.android/debug.keystore
+  keyPath: C:\Users\admin\.android\debug.keystore
   alias: androiddebugkey
   keyPwd: android
   storePwd: android

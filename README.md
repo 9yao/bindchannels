@@ -3,21 +3,21 @@
 该工具基于apktool实现，可以进行多个渠道打包、签名。
 
 # 使用方式
-1、请从release下载对应系统的zip文件，如Mac 下载 bindchannels-macos-1.0.0.zip文件  
+1、请从release下载对应系统的zip文件，如Mac 下载 bindchannels-mac-XXX.zip文件  
 2、需要Java环境（JDK11+）  
 3、配置好Android签名工具环境（zipalign、apksigner）  
 4、启动该工具的方式  
-4.1、Mac OS命令行运行 start.sh，或双击该文件  
+4.1、Mac OS命令行运行 start.command，或双击该文件  
 ```shell
-./start.sh
+./start.command
 ```
 4.1.1、首次执行可能没有权限；还需下面提权操作  
 ```shell
-chmod +x start.sh
+chmod +x start.command
 ```
 4.1.2 检查工具执行环境是否正常，会有相关的信息输出；输出信息都是[Y]开头，代表环境正常，否则请修改相关配置  
 ```shell
-./start.sh doctor
+./start.command doctor
 ```
 
 4.2、Windows命令行运行 start.bat，或双击该文件  
